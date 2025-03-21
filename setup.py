@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from typing import List
 def get_requirements() -> List[str]:
-    list_requirements=list[str]=[]
+    list_requirements:List[str]=[]
     return list_requirements
 
 
